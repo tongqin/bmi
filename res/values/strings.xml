@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">测试程序：Hello World, Bmi!</string>
+    <string name="hello">Hello,这个一个计算身高体重指数的程序</string>
     <string name="app_name">BMI</string>
-
+	<string name="height">身高 (cm)</string>
+	<string name="weight">体重 (kg)</string>
+	<string name="bmi_btn">计算 BMI 值</string>
+	<string name="bmi_result">你的 BMI 值是 </string>
+	<string name="advice_light">你该多吃点</string>
+	<string name="advice_average">体型很棒喔</string>
+	<string name="advice_heavy">你该节食了</string>
+	
 </resources>

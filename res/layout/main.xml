@@ -8,5 +8,40 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/hello" />
+    
+    <TextView
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/height"	/>    
+    <EditText android:id="@+id/height"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:inputType="number"
+		android:text=""/>
+    
+    <TextView
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/weight"/>
+	<EditText android:id="@+id/weight"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:inputType="number"
+		android:text=""/>
+	
+	<Button android:id="@+id/submit"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/bmi_btn"/>
+	
+	<TextView android:id="@+id/result"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text=""/>
+	
+	<TextView android:id="@+id/suggest"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text=""/>
 
 </LinearLayout>
