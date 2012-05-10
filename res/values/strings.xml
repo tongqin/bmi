@@ -2,13 +2,23 @@
 <resources>
 
     <string name="hello">Hello,这个一个计算身高体重指数的程序</string>
-    <string name="app_name">BMI</string>
+    <string name="app_name">BMI计算器</string>
 	<string name="height">身高 (cm)</string>
 	<string name="weight">体重 (kg)</string>
 	<string name="bmi_btn">计算 BMI 值</string>
-	<string name="bmi_result">你的 BMI 值是 </string>
+	<string name="bmi_result">你的 BMI 值是: </string>
+	
 	<string name="advice_light">你该多吃点</string>
 	<string name="advice_average">体型很棒喔</string>
 	<string name="advice_heavy">你该节食了</string>
+	
+	<string name="about_title">About BMI</string>
+	<string name="about_msg">Author：tongqin\n
+	    		Email：tongqin2002@gmail.com</string>
+	
+	<string name="calc_hint">恭喜您！BMI计算成功</string>
+	<string name="input_error">打错了吗?必须输入数字喔</string>
+			
+	<string name="ok_label">确定</string>
 	
 </resources>
